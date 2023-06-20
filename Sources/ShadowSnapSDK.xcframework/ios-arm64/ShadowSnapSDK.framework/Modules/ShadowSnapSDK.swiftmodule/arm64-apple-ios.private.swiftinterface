@@ -1,0 +1,56 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ShadowSnapSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import ARKit
+import CoreGraphics
+import Foundation
+import ImageIO
+import Metal
+import MetalKit
+import MobileCoreServices
+import SceneKit
+@_exported import ShadowSnapSDK
+import Swift
+import SwiftUI
+import UIKit
+import ZIPFoundation
+import _Concurrency
+import _StringProcessing
+import simd
+public var logSwitch: Swift.Bool
+@_hasMissingDesignatedInitializers public class FrameworkBundle {
+  public static var main: Foundation.Bundle {
+    get
+  }
+  @objc deinit
+}
+public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
+  public typealias UIViewControllerType = ShadowSnapSDK.ARViewController
+  public init(ref: @escaping (ShadowSnapSDK.ARViewController) -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: SwiftUI.UIViewControllerRepresentableContext<ShadowSnapSDK.ARContainer>) -> ShadowSnapSDK.ARViewController
+  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ view: ShadowSnapSDK.ARViewController, context: ShadowSnapSDK.ARContainer.Context)
+  public typealias Body = Swift.Never
+  public typealias Coordinator = Swift.Void
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class ARViewController : UIKit.UIViewController, ARKit.ARSCNViewDelegate {
+  @_Concurrency.MainActor(unsafe) public var onFaceToCameraDistanceChanged: ((Swift.Float?) -> Swift.Void)?
+  @_Concurrency.MainActor(unsafe) public var onStatusChanged: ((Swift.String) -> Swift.Void)?
+  @_Concurrency.MainActor(unsafe) public var onLightChanged: ((CoreFoundation.CGFloat) -> Swift.Void)?
+  @_Concurrency.MainActor(unsafe) public var monitoring: Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc public func renderer(_ renderer: any SceneKit.SCNSceneRenderer, didAdd node: SceneKit.SCNNode, for anchor: ARKit.ARAnchor)
+  @_Concurrency.MainActor(unsafe) @objc public func renderer(_ renderer: any SceneKit.SCNSceneRenderer, didUpdate node: SceneKit.SCNNode, for anchor: ARKit.ARAnchor)
+  @_Concurrency.MainActor(unsafe) public func toggleUVChecker(_ show: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func toggleWireframe(_ show: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func pauseAndRemoveARView()
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) public func cancelCapture()
+  @_Concurrency.MainActor(unsafe) public func showCapturedFace()
+  @_Concurrency.MainActor(unsafe) public func resetCapturedFace()
+  @objc @_Concurrency.MainActor(unsafe) public func generateFaceImages(folderName: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func exportObj()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}

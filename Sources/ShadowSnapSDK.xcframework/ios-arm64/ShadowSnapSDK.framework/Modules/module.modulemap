@@ -1,0 +1,11 @@
+framework module ShadowSnapSDK {
+  umbrella header "ShadowSnapSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ShadowSnapSDK.Swift {
+  header "ShadowSnapSDK-Swift.h"
+  requires objc
+}
