@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nq44zqH8ABqrdHxVQJS38ocQOKo=
+		hPR39613qV/W2chK6FLmz8xk8uo=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		KJtx7IHl8vFnq35M7Q5jK5Xk7ew=
+		kpqskDq3T6FkzDljpUaB/xygP9Q=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		YZ1ZrAusS4zLwzKOpDaU6BFqGXA=
+		LXcIDjUL6rEvj5dlgzgxF9m/PfE=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		KJtx7IHl8vFnq35M7Q5jK5Xk7ew=
+		kpqskDq3T6FkzDljpUaB/xygP9Q=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XcyhFrkGR5+BD0fQx24Pbt7lEoA=
+		ad+5Kh5BlHAb+sQIjZjDIO7OapY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		NfDV8o+KZWQm1KbZUyzYEKGwwDs=
+		qVwPLFwO+Y9fl5GJRznEgMmPYO8=
 		</data>
 		<key>headMask.png</key>
 		<data>
@@ -103,28 +103,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dGscr00eMaLi2o1wk5gUaQDXwI9SqI+W4gfHUnnse6M=
+			eeslKhTSGCPmxBAAFw0JdLQruwf+xxvsc6+QvNfxhMo=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9dPu9frXFtzcb0ER6IIbuJDOWEnVEYwUa0XYI8qbMbg=
+			M/lFopo/Jib6azIl9A/35z8tNe3DQO74rvbwt+lqcj0=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dGscr00eMaLi2o1wk5gUaQDXwI9SqI+W4gfHUnnse6M=
+			eeslKhTSGCPmxBAAFw0JdLQruwf+xxvsc6+QvNfxhMo=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FPlDSZGLH4q2Oemqj/OaFJ96Je4zfkn6pFZGcOAMXAo=
+			MVU7qLRo2VDF+0zfq+0Bf630svUBgrt5ARJscCKkKK4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UcLqarGYoZ63W8dTYnfyEHA7boLiskmJAWUvSnMD9Xo=
+			7azFtMKC9OextBDr4XQdCAbf2WFLZQo6ROyYs0iEqD8=
 			</data>
 		</dict>
 		<key>headMask.png</key>
