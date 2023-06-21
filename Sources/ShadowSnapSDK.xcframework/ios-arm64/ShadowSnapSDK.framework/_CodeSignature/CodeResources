@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		bG2kzVNw4k2EsT8AzuYZlQxo+/M=
+		9PxVFPDhk2e005jHJH7CU8s0eHA=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		+ApECHkeSm3TTauWwomn95Wpuus=
+		TazzDASkF4umF5hqDXXD1l8H/Ys=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+ApECHkeSm3TTauWwomn95Wpuus=
+		TazzDASkF4umF5hqDXXD1l8H/Ys=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QqeKdTb/6Ckq7tKFN2wE6Kgce7Q=
+		/TnvcMQS3DvDabVyquFTpLT053k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ctlwmiQtWcacueCfmvgxt0E254pPr6lgJ+rKmrzpL8E=
+			qlsDwjqTBe5cOwDJ1A9m+1appr/mxBVUzrOp7dPcv6A=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r1xvCYmy1igAEu/FYckmfbf4OGfA57gUulExhSLIxQs=
+			L3wWYbbpPlvBgVVNfTxI4I7pVey8otRAzBfdaLaxEUQ=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r1xvCYmy1igAEu/FYckmfbf4OGfA57gUulExhSLIxQs=
+			L3wWYbbpPlvBgVVNfTxI4I7pVey8otRAzBfdaLaxEUQ=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZRlIr9/RinZzuA8vekKQ77JW9tT5C6VMfLcvIGopTM=
+			noxneVPsKJBuXWf5JS/Q1gEc6UwLX19bR6cYSonlM1o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
