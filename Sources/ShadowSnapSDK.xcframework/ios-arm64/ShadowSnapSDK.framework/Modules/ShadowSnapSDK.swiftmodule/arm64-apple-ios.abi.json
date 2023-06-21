@@ -2367,1022 +2367,1015 @@
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 1201,
+      "offset": 1207,
       "length": 30,
       "value": "\"Error saving image: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 1230,
+      "offset": 1236,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 1248,
+      "offset": 1254,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 1468,
+      "offset": 1474,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 1532,
+      "offset": 1544,
       "length": 38,
       "value": "\"Error creating ZIP archive: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 1569,
+      "offset": 1581,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 1886,
+      "offset": 1898,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 1934,
+      "offset": 1946,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 2244,
+      "offset": 2256,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 2316,
+      "offset": 2328,
       "length": 5,
       "value": "180.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 2513,
+      "offset": 2525,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 2678,
+      "offset": 2690,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2715,
+      "offset": 2733,
       "length": 33,
       "value": "\"Folder created at: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2747,
+      "offset": 2765,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2803,
+      "offset": 2827,
       "length": 33,
       "value": "\"Error creating folder: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2835,
+      "offset": 2859,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 3355,
+      "offset": 3379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 3423,
+      "offset": 3447,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 3565,
+      "offset": 3589,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 4161,
+      "offset": 4185,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 4194,
+      "offset": 4224,
       "length": 4,
       "value": "\"  \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 4216,
+      "offset": 4246,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 4232,
+      "offset": 4262,
       "length": 9,
       "value": "\"unnamed\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 4242,
+      "offset": 4272,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 4324,
+      "offset": 4354,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 4653,
+      "offset": 4683,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 5034,
+      "offset": 5064,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 5076,
+      "offset": 5106,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5586,
+      "offset": 5616,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5675,
+      "offset": 5705,
       "length": 41,
       "value": "\"v \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5689,
+      "offset": 5719,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5701,
+      "offset": 5731,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5713,
+      "offset": 5743,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5829,
+      "offset": 5859,
       "length": 34,
       "value": "\"vt \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5846,
+      "offset": 5876,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5860,
+      "offset": 5890,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5955,
+      "offset": 5985,
       "length": 42,
       "value": "\"vn \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5970,
+      "offset": 6000,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5982,
+      "offset": 6012,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 5994,
+      "offset": 6024,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6073,
+      "offset": 6103,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6088,
+      "offset": 6118,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6132,
+      "offset": 6162,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6182,
+      "offset": 6212,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6231,
+      "offset": 6261,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6236,
+      "offset": 6266,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6285,
+      "offset": 6315,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 6290,
+      "offset": 6320,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6313,
+      "offset": 6343,
       "length": 68,
       "value": "\"f \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6322,
+      "offset": 6352,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6329,
+      "offset": 6359,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6336,
+      "offset": 6366,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6343,
+      "offset": 6373,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6350,
+      "offset": 6380,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6357,
+      "offset": 6387,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6364,
+      "offset": 6394,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6371,
+      "offset": 6401,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 6378,
+      "offset": 6408,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 6926,
+      "offset": 6956,
       "length": 5,
       "value": "100.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 7044,
+      "offset": 7074,
       "length": 3,
       "value": "5.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 7632,
+      "offset": 7662,
       "length": 4,
       "value": "90.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 8182,
+      "offset": 8212,
       "length": 4,
       "value": "0.02"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 8208,
+      "offset": 8238,
       "length": 4,
       "value": "0.05"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 8231,
+      "offset": 8261,
       "length": 4,
       "value": "0.04"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 8839,
+      "offset": 8869,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 8919,
+      "offset": 8949,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 8925,
+      "offset": 8955,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 9044,
+      "offset": 9074,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 9135,
+      "offset": 9165,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 9142,
+      "offset": 9172,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 9248,
+      "offset": 9278,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 9328,
+      "offset": 9358,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 9334,
+      "offset": 9364,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 9773,
+      "offset": 9803,
       "length": 26,
       "value": "\"Couldn't load Audio file\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 10080,
+      "offset": 10110,
       "length": 4,
       "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 10245,
+      "offset": 10275,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 10309,
+      "offset": 10339,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 10398,
+      "offset": 10428,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
-      "kind": "StringLiteral",
-      "offset": 10525,
-      "length": 26,
-      "value": "\"getBlendedTexture called\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 10759,
+      "offset": 10751,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 10785,
+      "offset": 10777,
       "length": 13,
       "value": "\"sdk_log.txt\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11220,
+      "offset": 11212,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11230,
+      "offset": 11222,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11242,
+      "offset": 11234,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11326,
+      "offset": 11318,
       "length": 32,
       "value": "\"Error writing to log: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11357,
+      "offset": 11349,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11760,
+      "offset": 11752,
       "length": 21,
       "value": "\"yyyy_MM_dd_HH_mm_ss\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11859,
+      "offset": 11851,
       "length": 21,
       "value": "\"Model_\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 11879,
+      "offset": 11871,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12010,
+      "offset": 12008,
       "length": 23,
       "value": "\"Error creating folder\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12108,
+      "offset": 12106,
       "length": 11,
       "value": "\"Model.obj\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12146,
+      "offset": 12144,
       "length": 11,
       "value": "\"Model.png\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 12362,
+      "offset": 12360,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 12399,
+      "offset": 12397,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 12573,
+      "offset": 12571,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12610,
+      "offset": 12614,
       "length": 55,
       "value": "\"OBJ file successfully exported to: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12664,
+      "offset": 12668,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 12694,
+      "offset": 12698,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12727,
+      "offset": 12737,
       "length": 57,
       "value": "\"Error exporting OBJ file: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 12783,
+      "offset": 12793,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13118,
+      "offset": 13134,
       "length": 63,
       "value": "\"Texture file successfully exported to: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13180,
+      "offset": 13196,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 13222,
+      "offset": 13238,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13271,
+      "offset": 13293,
       "length": 61,
       "value": "\"Error exporting texture file: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13331,
+      "offset": 13353,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13504,
+      "offset": 13526,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13524,
+      "offset": 13546,
       "length": 67,
       "value": "\"OBJ and texture files saved successfully in folder \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13589,
+      "offset": 13611,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13666,
+      "offset": 13688,
       "length": 39,
       "value": "\"Failed to save the following files:\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13765,
+      "offset": 13787,
       "length": 14,
       "value": "\"- OBJ file\n\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13853,
+      "offset": 13875,
       "length": 16,
       "value": "\"- Texture file\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 13905,
+      "offset": 13927,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14221,
+      "offset": 14243,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14255,
+      "offset": 14277,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 14281,
+      "offset": 14303,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 14290,
+      "offset": 14312,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14350,
+      "offset": 14372,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14385,
+      "offset": 14407,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14718,
+      "offset": 14740,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14721,
+      "offset": 14743,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14731,
+      "offset": 14753,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14734,
+      "offset": 14756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14744,
+      "offset": 14766,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14747,
+      "offset": 14769,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14757,
+      "offset": 14779,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14760,
+      "offset": 14782,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 14792,
+      "offset": 14814,
       "length": 4,
       "value": "1e-6"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14875,
+      "offset": 14897,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14878,
+      "offset": 14900,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14887,
+      "offset": 14909,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14890,
+      "offset": 14912,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14922,
+      "offset": 14944,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14925,
+      "offset": 14947,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14960,
+      "offset": 14982,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14963,
+      "offset": 14985,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14972,
+      "offset": 14994,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 14975,
+      "offset": 14997,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15024,
+      "offset": 15046,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15027,
+      "offset": 15049,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15036,
+      "offset": 15058,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15039,
+      "offset": 15061,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15071,
+      "offset": 15093,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15074,
+      "offset": 15096,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15098,
+      "offset": 15120,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 15991,
+      "offset": 16013,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 16007,
+      "offset": 16029,
       "length": 1,
       "value": "1"
     },
@@ -4782,126 +4775,126 @@
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21533,
+      "offset": 21454,
       "length": 33,
       "value": "\"Folder and its contents deleted\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21634,
+      "offset": 21547,
       "length": 35,
       "value": "\"Failed to delete folder: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21668,
+      "offset": 21581,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21760,
+      "offset": 21651,
       "length": 30,
       "value": "\"Failed to create ZIP archive\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21992,
+      "offset": 21883,
       "length": 117,
       "value": "\"Saved \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22014,
+      "offset": 21905,
       "length": 6,
       "value": "\" images to Files app in the ShadowSnap folder under the name: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22094,
+      "offset": 21985,
       "length": 1,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22108,
+      "offset": 21999,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22173,
+      "offset": 22064,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22293,
+      "offset": 22184,
       "length": 19,
       "value": "\"Export Successful\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22470,
+      "offset": 22361,
       "length": 176,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22486,
+      "offset": 22377,
       "length": 2,
       "value": "\" of \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22505,
+      "offset": 22396,
       "length": 6,
       "value": "\" images exported successfully to Files app in the ShadowSnap folder under the name: \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22607,
+      "offset": 22498,
       "length": 1,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22621,
+      "offset": 22512,
       "length": 1,
       "value": "\". \""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22637,
+      "offset": 22528,
       "length": 6,
       "value": "\" failed.\""
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22710,
+      "offset": 22601,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/harryhe\/Documents\/Framework\/ShadowSnapSDK\/ShadowSnapSDK\/ARViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22831,
+      "offset": 22722,
       "length": 16,
       "value": "\"Partial Export\""
     },
