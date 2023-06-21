@@ -25,6 +25,7 @@ public var logSwitch: Swift.Bool
   }
   @objc deinit
 }
+public func showAlert(title: Swift.String, message: Swift.String, viewController: UIKit.UIViewController)
 public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
   public typealias UIViewControllerType = ShadowSnapSDK.ARViewController
   public init(ref: @escaping (ShadowSnapSDK.ARViewController) -> Swift.Void)
@@ -35,6 +36,7 @@ public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class ARViewController : UIKit.UIViewController, ARKit.ARSCNViewDelegate {
   @_Concurrency.MainActor(unsafe) public var isDevelopmentMode: Swift.Bool
+  @_Concurrency.MainActor(unsafe) public var inputFolderName: Swift.String
   @_Concurrency.MainActor(unsafe) public var onFaceToCameraDistanceChanged: ((Swift.Float?) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var onStatusChanged: ((Swift.String) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var onLightChanged: ((CoreFoundation.CGFloat) -> Swift.Void)?
