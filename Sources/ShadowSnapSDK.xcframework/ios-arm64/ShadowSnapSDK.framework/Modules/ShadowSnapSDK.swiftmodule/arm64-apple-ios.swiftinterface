@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
-// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ShadowSnapSDK
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ShadowSnapSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import ARKit
 import CoreGraphics
@@ -14,7 +14,7 @@ import SceneKit
 import Swift
 import SwiftUI
 import UIKit
-import ZipArchive
+import ZIPFoundation
 import _Concurrency
 import _StringProcessing
 import simd
@@ -37,7 +37,6 @@ public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class ARViewController : UIKit.UIViewController, ARKit.ARSCNViewDelegate {
   @_Concurrency.MainActor(unsafe) public var isDevelopmentMode: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var inputFolderName: Swift.String
-  @_Concurrency.MainActor(unsafe) public var zipPassword: Swift.String
   @_Concurrency.MainActor(unsafe) public var onFaceToCameraDistanceChanged: ((Swift.Float?) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var onStatusChanged: ((Swift.String) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var onLightChanged: ((CoreFoundation.CGFloat) -> Swift.Void)?

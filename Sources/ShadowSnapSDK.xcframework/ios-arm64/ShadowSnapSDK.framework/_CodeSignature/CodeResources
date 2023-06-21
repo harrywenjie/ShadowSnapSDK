@@ -18,27 +18,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hPR39613qV/W2chK6FLmz8xk8uo=
+		nq44zqH8ABqrdHxVQJS38ocQOKo=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		GZNa3hy91MReK2eBRll7K09gl1Q=
+		sbN5kVirssuO7b2KObAsbKu4i4E=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kpqskDq3T6FkzDljpUaB/xygP9Q=
+		awb1WImY+NdDVErP9LFF+/BNyrs=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		LXcIDjUL6rEvj5dlgzgxF9m/PfE=
+		YZ1ZrAusS4zLwzKOpDaU6BFqGXA=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kpqskDq3T6FkzDljpUaB/xygP9Q=
+		awb1WImY+NdDVErP9LFF+/BNyrs=
 		</data>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ad+5Kh5BlHAb+sQIjZjDIO7OapY=
+		T9hlOIuCtSAz6d/W8zWR5ttPLCI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		qVwPLFwO+Y9fl5GJRznEgMmPYO8=
+		NfDV8o+KZWQm1KbZUyzYEKGwwDs=
 		</data>
 		<key>headMask.png</key>
 		<data>
@@ -96,35 +96,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cXIxiXlL/+B5yArPJH9uwNW0bN8MnM0n9n2k3HPh5Z0=
+			d36C99lYO0gnZlgob8GolRXaFNaveVKISMGsG/eV72Q=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eeslKhTSGCPmxBAAFw0JdLQruwf+xxvsc6+QvNfxhMo=
+			0gLaAT4tEgf/TV96ExAxy+jn7T65Wfu2wC00rZzk734=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M/lFopo/Jib6azIl9A/35z8tNe3DQO74rvbwt+lqcj0=
+			9dPu9frXFtzcb0ER6IIbuJDOWEnVEYwUa0XYI8qbMbg=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eeslKhTSGCPmxBAAFw0JdLQruwf+xxvsc6+QvNfxhMo=
+			0gLaAT4tEgf/TV96ExAxy+jn7T65Wfu2wC00rZzk734=
 			</data>
 		</dict>
 		<key>Modules/ShadowSnapSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MVU7qLRo2VDF+0zfq+0Bf630svUBgrt5ARJscCKkKK4=
+			yRGUsvbF2sZYKyT27uOfnsX6D4u14XCeSsUbs2uGWNU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7azFtMKC9OextBDr4XQdCAbf2WFLZQo6ROyYs0iEqD8=
+			UcLqarGYoZ63W8dTYnfyEHA7boLiskmJAWUvSnMD9Xo=
 			</data>
 		</dict>
 		<key>headMask.png</key>
