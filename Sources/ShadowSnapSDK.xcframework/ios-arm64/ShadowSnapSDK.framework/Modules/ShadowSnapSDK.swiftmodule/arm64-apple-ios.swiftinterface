@@ -18,13 +18,13 @@ import ZIPFoundation
 import _Concurrency
 import _StringProcessing
 import simd
-public var logSwitch: Swift.Bool
 @_hasMissingDesignatedInitializers public class FrameworkBundle {
   public static var main: Foundation.Bundle {
     get
   }
   @objc deinit
 }
+public func setLogSwitch(_ value: Swift.Bool)
 public func showAlert(title: Swift.String, message: Swift.String, viewController: UIKit.UIViewController)
 public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
   public typealias UIViewControllerType = ShadowSnapSDK.ARViewController
