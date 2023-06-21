@@ -14,7 +14,7 @@ import SceneKit
 import Swift
 import SwiftUI
 import UIKit
-import ZIPFoundation
+import ZipArchive
 import _Concurrency
 import _StringProcessing
 import simd
@@ -37,6 +37,7 @@ public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class ARViewController : UIKit.UIViewController, ARKit.ARSCNViewDelegate {
   @_Concurrency.MainActor(unsafe) public var isDevelopmentMode: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var inputFolderName: Swift.String
+  @_Concurrency.MainActor(unsafe) public var zipPassword: Swift.String
   @_Concurrency.MainActor(unsafe) public var onFaceToCameraDistanceChanged: ((Swift.Float?) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var onStatusChanged: ((Swift.String) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var onLightChanged: ((CoreFoundation.CGFloat) -> Swift.Void)?
@@ -52,7 +53,7 @@ public struct ARContainer : SwiftUI.UIViewControllerRepresentable {
   @_Concurrency.MainActor(unsafe) public func cancelCapture()
   @_Concurrency.MainActor(unsafe) public func showCapturedFace()
   @_Concurrency.MainActor(unsafe) public func resetCapturedFace()
-  @objc @_Concurrency.MainActor(unsafe) public func generateFaceImages(folderName: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func generateFaceImages()
   @_Concurrency.MainActor(unsafe) public func exportObj()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
